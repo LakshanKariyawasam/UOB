@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="assets/mongo-java-driver-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lakshan Kariyawasam/Downloads/Microsoft.SkypeApp_kzf8qxf38zg5c!App/All/path-quize-server/references/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lakshan Kariyawasam/Downloads/Microsoft.SkypeApp_kzf8qxf38zg5c!App/All/path-quize-server/references/commons-codec-1.7.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
